@@ -1,3 +1,3 @@
 # Java-Android Certificate
 
-My certificates of knowledge Java/Android, English language course.
+My certificates of knowledge Java/Android (CCA, Udemy), English language course.
